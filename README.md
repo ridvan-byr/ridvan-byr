@@ -12,39 +12,15 @@ Hi there! I'm Rıdvan Emre Bayar, a computer engineering student passionate abou
 
 💻 Programming Languages
 
-Python
-
-C#
-
-JavaScript
-
-Java
-
-C++
+Python,C#,JavaScript,Java,C++
 
 🌐 Web & Frameworks
 
-React
-
-Next.js
-
-Node.js
-
-Express.js
-
-ASP.NET MVC
+React,Next.js,Node.js,Express.js,ASP.NET MVC
 
 🗄️ Databases
 
-PostgreSQL
-
-SQLite
-
-SQL Server
-
-MySQL
-
-MongoDB
+PostgreSQL,SQLite,SQL Server,MySQL,MongoDB
 
 📢 Contact
 

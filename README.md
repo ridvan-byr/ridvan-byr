@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-About Me
-
-Hi there! I'm Rıdvan Emre Bayar, a computer engineering student passionate about software development. I focus on building full-stack applications and love working with both backend and frontend technologies. I'm particularly interested in artificial intelligence, task automation, and game development.
+I'm Rıdvan Emre Bayar, a computer engineering student passionate about software development. I focus on building full-stack applications and love working with both backend and frontend technologies. I'm particularly interested in artificial intelligence, task automation, and game development.
 
 🧠 Interests: LLM-powered applications, task automation, game technologies
 
